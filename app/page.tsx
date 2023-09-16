@@ -14,7 +14,7 @@ export default function Home() {
         <Searchbar  />
     <div className='home__filter-container'>
       <FilterButton title='fuel'/>
-      <FilterButton title='fuel'/>
+      <FilterButton title='year'/>
     </div>
       </div>
 
